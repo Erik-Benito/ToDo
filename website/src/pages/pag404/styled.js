@@ -75,6 +75,8 @@ const Container = styled.div`
     height: 4em;
 
     margin: 2rem 0rem;
+
+    a{text-decoration: none;}
   }
 
 `;

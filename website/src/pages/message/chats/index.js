@@ -13,6 +13,8 @@ export default function index() {
     }
   ];
   return(
-    <Container />
+    <Container>
+      <PreviewMessage data={array[0]}/>
+    </Container>
   )
 }
